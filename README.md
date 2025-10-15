@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KSS-1227
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning javascript,node.js,mongodb & uses of docker 
+- 🌱 I’m currently learning javascript,node.js,mongodb,python,machine learning 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sherigarakarthik17@gmail.com
+- 📫 To reach me sherigarakarthik17@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: doing dsa in java 
 
