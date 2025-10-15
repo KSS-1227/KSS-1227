@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KSS-1227
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in full stack web-development & agentic ai developer and know using node code agents 
 - 🌱 I’m currently learning javascript,node.js,mongodb,python,machine learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 To reach me sherigarakarthik17@gmail.com
