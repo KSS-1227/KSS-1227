@@ -1,7 +1,7 @@
 👋 Hi, I’m Karthik Sherigara (@KSS-1227)
 👀 Interests: Full Stack Web Development, Agentic AI, and DevOps
 
-🌱 Currently Learning: JavaScript, Node.js, MongoDB,PostgreSQL, Python, Machine Learning, RAG, CI/CD workflows, and production deployment strategies, Understanding smart RAG and MCP's
+🌱 Currently Learning: JavaScript, Node.js, MongoDB,PostgreSQL, Python, Machine Learning, CI/CD workflows, and production deployment strategiesand Multi-Modal smart graph RAG
 
 💻 Skills & Projects:
 
