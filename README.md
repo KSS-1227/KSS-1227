@@ -31,7 +31,6 @@
 |---|---|
 | **[TradeMind](https://github.com/KSS-1227/TradeMind)** | AI co-pilot for Indian retail investors — a 3-agent ML pipeline (Research, Signal, Explainer) that delivers NSE trading signals, a natural-language stock screener, and WhatsApp-only delivery of predictions and market news, no app required |
 | **[AI Research Assistant](https://github.com/KSS-1227/ai-research-assistant)** | RAG-based research assistant with BM25+FAISS hybrid retrieval, a verification agent for citation grounding, and a Dockerized FastAPI + Streamlit Cloud deployment with CI/CD |
-| **[InsightAI](https://github.com/KSS-1227/InsightAi)** | Autonomous multi-agent research & verification system, built for INNOVA HACK 2026 |
 | **[AI Semantic Search Engine](https://github.com/KSS-1227/SRC-Backend)** | Semantic search backend using vector embeddings for context-aware retrieval, built with Node.js, Express, and Supabase |
 
 ### 🧰 Tech stack
@@ -47,17 +46,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KSS-1227&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSS-1227&layout=compact&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSS-1227&hide_border=true" />
 </p>
 
 ---
