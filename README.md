@@ -21,9 +21,12 @@
 
 ### 🔭 Currently building
 
-- **[TEST-INOVA (MMGraphRAG)](https://github.com/MaterVally/TEST-INOVA)** — Multimodal GraphRAG system built for Enterprice Data Enterprise Data, designed to reduce decision latency and unlock cost savings by automating retrieval and analysis across multimodal sources
-- **SentinelCall** — Real-time scam-call defense Flutter app 
-- **AI Finance Controller** — Multimodal GraphRAG adapted for invoice/contract reconciliation
+**[awshackathon — Multimodal GraphRAG](https://github.com/KSS-1227/awshackathon)**
+A multimodal GraphRAG system for enterprise documents. It ingests PDF, DOCX, XLSX and images, extracts entities and relationships with the Gemini API into a knowledge graph, and answers questions with cited evidence.
+
+- **Stack:** Python, FastAPI, Gemini API, AWS (S3, DynamoDB, OpenSearch), Supabase for authentication
+- **Now working on:** running within a free-tier API key's limits, and adding context and episodic memory so the system can carry information across sessions
+- **Status:** in progress
 
 ### 💡 Featured projects
 
