@@ -28,6 +28,13 @@ A multimodal GraphRAG system for enterprise documents. It ingests PDF, DOCX, XLS
 - **Now working on:** running within a free-tier API key's limits, and adding context and episodic memory so the system can carry information across sessions
 - **Status:** in progress
 
+**[Agent-mcp — Agent Safety MCP](https://github.com/KSS-1227/Agent-mcp)**
+A TypeScript MCP server that sits in front of PostgreSQL + pgvector (Supabase) so AI agents' actions run exactly once, even after crashes or retries, and so concurrent agents' plans are repaired instead of thrown away. The exactly-once protocol is adapted from the open-source [Anchor](https://github.com/virajchogle/anchor) project.
+
+- **Stack:** TypeScript, Node.js, PostgreSQL, pgvector, Supabase (JWT authentication)
+- **Now working on:** the remaining parts and deployment on Render
+- **Status:** in progress(More features to add)
+
 ### 💡 Featured projects
 
 | Project | What it does |
